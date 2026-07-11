@@ -10,6 +10,7 @@ and growth systems that solve real problems.
 - 🤖 Multi-agent pipelines (brand analysis, content strategy, QA)
 - 📞 Business automation: transcription tools, Telegram-based agent offices
 - 🧠 One rule: strategy leads the technology, not the other way around
+- - 🖼️ [html-to-slides](https://github.com/noelaliaga/html-to-slides) — export HTML carousels as Instagram-ready PNGs
 
 ## Currently
 
