@@ -23,5 +23,5 @@ and growth systems that solve real problems.
 
 ## Let's connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/noel-aliaga-oliver-a17700421/
+- 💼 LinkedIn: https://www.linkedin.com/in/noelaliaga
 - 📩 Open to collaborations on AI tooling for small businesses
