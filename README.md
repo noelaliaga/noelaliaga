@@ -1,62 +1,82 @@
-# Hola, I'm Noel 👋
+<p align="center"><img src="assets/banner.png" width="100%" alt="Noel Aliaga — AI Systems Architect & Developer · Signal Systems" /></p>
 
-**AI Systems Builder · Agent Engineering · Business Automation**
-Founder of [Signal Systems](https://signalsystems.es) · Alicante, Spain
+<h2 align="center">Engineering the systems behind AI.</h2>
+<p align="center"><b>S I G N A L &nbsp; S Y S T E M S</b></p>
+<p align="center">
+<a href="https://github.com/noelaliaga?tab=repositories">Explore my code</a> &nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/noelaliaga">LinkedIn</a> &nbsp; / &nbsp;
+<a href="https://signalsystems.es">Signal Systems</a>
+</p>
 
-I build AI-assisted software and agent systems for real work: agents that use tools, follow explicit workflows, preserve context, and leave evidence of what they did.
+## 01 / ABOUT
 
-My background in factory and warehouse operations shapes how I approach software: clear responsibilities, controlled changes, useful checks, and a way to recover when something fails.
+I design and build agent systems, MCP tools and business workflows.
 
-I'm building in public while deepening my software engineering skills. I use Claude Code, Codex and other AI tools to help implement my ideas; my focus is on problem definition, system design, orchestration, testing and iteration.
+My background in factory and warehouse operations shapes how I build software: clear responsibilities, controlled changes, useful checks and recovery when something fails.
 
-## What I'm building
-
-A connected set of **agent-system building blocks**. They are separate projects today, at different stages of maturity—not a single turnkey platform yet.
-
-```text
-               Context & memory
-                     │
- Business process → Agent + workflow → MCP tools → Business data
-                     │                  │
-                     ├── Evaluation & approvals
-                     └── Local observability
+```yaml
+focus: agents + infrastructure + business workflows
+approach: design / build / evaluate / iterate
+location: Alicante, Spain
 ```
 
-### Featured projects
+I use Claude Code, Codex and other AI tools to implement my ideas while deepening my software engineering skills. My focus is problem definition, system design, orchestration, testing and iteration.
 
-| Project                                                                                      | What it explores                                                                                                                                                                  |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Motor Agéntico · Observability](https://github.com/noelaliaga/motor-agentico-observability) | Local, read-only dashboard for AI coding-agent activity, costs, installed vs. used capabilities, memory and nightly findings. Synthetic demo; not intended for remote deployment. |
-| [Multiverso · Context Engine](https://github.com/noelaliaga/multiverso-context-engine)       | Persistent project context and a navigable filesystem graph so new agent sessions can resume with relevant information.                                                           |
-| [MCP Logística](https://github.com/noelaliaga/mcp-logistica)                                 | Warehouse MCP server for orders and stock with constrained writes, clarification rules and database audit trails.                                                                 |
-| [WMS Agent Evals](https://github.com/noelaliaga/wms-agent-evals)                             | Evaluates tool calls, ambiguity handling, grounded answers, database effects, cost and latency. Published runs are **offline/synthetic**, not live-model benchmarks.              |
-| [ADK WMS Assistant](https://github.com/noelaliaga/adk-wms-assistant)                         | Google ADK assistant using the WMS MCP tools, with separate read/write paths, human approval and structured telemetry. Tested offline; not deployed.                              |
-| [Agent CRM MCP](https://github.com/noelaliaga/agent-crm-mcp)                                 | Restricted CRM tools, Postgres-level permissions and audit logging, plus health checks informed by a documented silent-outage incident.                                           |
-| [Content Engine Multiagent](https://github.com/noelaliaga/content-engine-multiagent)         | Five-stage content workflow with JSON Schema contracts, cross-step validation, QA gates and an offline demo using a fictional client.                                             |
+## 02 / TOOLKIT
 
-## What I'm working on now
+<p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,postgres,nextjs,supabase,git,githubactions,playwright&theme=dark" alt="Python, TypeScript, JavaScript, PostgreSQL, Next.js, Supabase, Git, GitHub Actions and Playwright" /></p>
+<p align="center"><b>MCP · Claude Code · Codex · Agent orchestration · Evaluation</b></p>
 
-* **Agent harness:** task ownership, independent review, durable handoffs, recovery, permissions and evaluations. The main working environment is private and evolving; the public repos above document individual components and experiments.
-* **Motor Agéntico redesign:** making agent roles, skills, workflows, memory, evidence and costs easier to inspect. New control surfaces are a design goal, not a capability of the current read-only public dashboard.
-* **Reproducible business workflows:** exploring how to adapt agent systems to a company's processes without treating a demo as proof of production readiness.
+## 03 / SELECTED SYSTEMS
 
-## How I work
+<a href="https://github.com/noelaliaga/agent-crm-mcp"><img src="assets/agent-crm-mcp.svg" width="100%" alt="Agent CRM MCP — Permissions & audit trails" /></a>
 
-* **Ask before assuming.** Ambiguous requests should lead to clarification, not a confident write to the wrong record.
-* **Bound what tools can do.** Permissions and database constraints matter more than a prompt saying “be careful.”
-* **Review independently.** Separate implementation from review; verify a fixed commit and the original requirements.
-* **Measure behavior, not just answers.** Record tool calls, state changes, failures and limitations; use negative controls in tests.
-* **Document the real status.** Distinguish synthetic demos, offline tests, live usage and production deployment.
+Restricted CRM tools, Postgres permissions and audit logging.
 
-## More things I've built
+<a href="https://github.com/noelaliaga/motor-agentico-observability"><img src="assets/motor-agentico-observability.svg" width="100%" alt="Motor Agéntico — Local agent observability" /></a>
 
-* [Biblioteca de guías de IA](https://github.com/noelaliaga/guias-ia) · [Read the guides in Spanish](https://guias-ia.vercel.app) — practical lessons from building software with AI, including Git, reviews, security and deployment.
-* [html-to-slides](https://github.com/noelaliaga/html-to-slides) — exports HTML carousels as Instagram-ready PNGs.
+Read-only local dashboard. Public demo uses synthetic data.
 
-**Tools I work with:** TypeScript / JavaScript · Python · SQL / PostgreSQL · Next.js · Supabase · MCP · Claude Code · Codex · GitHub Actions · Playwright
+<a href="https://github.com/noelaliaga/mcp-logistica"><img src="assets/mcp-logistica.svg" width="100%" alt="MCP Logística — Warehouse tools & workflows" /></a>
 
-## Let's connect
+Orders and stock tools with constrained writes and audit trails.
 
-I'm interested in AI systems, applied agent engineering, business-process automation and opportunities to build useful software with strong operational safeguards.
+<a href="https://github.com/noelaliaga/wms-agent-evals"><img src="assets/wms-agent-evals.svg" width="100%" alt="WMS Agent Evals — Offline behavior evaluation" /></a>
 
-[LinkedIn](https://www.linkedin.com/in/noelaliaga) · [Signal Systems](https://signalsystems.es) · [GitHub projects](https://github.com/noelaliaga?tab=repositories)
+Tool calls, ambiguity and database effects. Published runs are synthetic.
+
+These repositories are separate components and experiments at different stages of maturity. They are not a single production-ready platform. Each repository documents its evidence and limitations.
+
+<details>
+<summary><b>More systems & developer tools</b></summary>
+
+- [Multiverso Context Engine](https://github.com/noelaliaga/multiverso-context-engine) — persistent project context and a navigable filesystem graph.
+- [ADK WMS Assistant](https://github.com/noelaliaga/adk-wms-assistant) — Google ADK with WMS tools, read/write paths, human approval and telemetry. Tested offline; not deployed.
+- [Content Engine Multiagent](https://github.com/noelaliaga/content-engine-multiagent) — five-stage content workflow with JSON Schema contracts and QA gates; fictional offline demo.
+- [AI Guides](https://github.com/noelaliaga/guias-ia) — practical lessons on Git, reviews, security and deployment. [Read in Spanish](https://guias-ia.vercel.app).
+- [HTML to Slides](https://github.com/noelaliaga/html-to-slides) — HTML carousels exported as Instagram-ready PNGs.
+
+</details>
+
+## 04 / ENGINEERING PRINCIPLES
+
+| Principle | In practice |
+| --- | --- |
+| Explicit permissions | Bound tools and database writes. Clarify ambiguous targets. |
+| Observable behavior | Record tool calls, state changes, failures and costs. |
+| Independent review | Verify a fixed commit against the original requirements. |
+| Honest evaluation | Separate synthetic demos, offline tests, live use and production. |
+| Durable context | Preserve decisions and handoffs so work can resume. |
+
+## 05 / BUILDING IN PUBLIC
+
+Currently developing a private **agent harness** focused on task ownership, independent review, durable handoffs, recovery, permissions and evaluations. Public repositories document individual components and experiments.
+
+Also redesigning Motor Agéntico to make roles, memory, evidence and costs easier to inspect. New controls are a design goal; the current public dashboard remains read-only.
+
+[View my actual GitHub activity →](https://github.com/noelaliaga)
+
+---
+
+<p align="center"><b>Explore the code. Follow the process.</b><br/><br/>
+<a href="https://www.linkedin.com/in/noelaliaga">Let's connect</a> · <a href="https://signalsystems.es">Signal Systems</a></p>

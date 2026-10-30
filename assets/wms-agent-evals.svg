@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" role="img" aria-label="WMS Agent Evals — Offline behavior evaluation">
+<defs>
+  <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04182a"/><stop offset=".55" stop-color="#070f22"/><stop offset="1" stop-color="#110c28"/></linearGradient>
+  <radialGradient id="halo" cx=".22" cy=".55" r=".45"><stop offset="0" stop-color="#2fd8ff" stop-opacity=".22"/><stop offset="1" stop-color="#2fd8ff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="cara" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14345a"/><stop offset="1" stop-color="#0a1a33"/></linearGradient>
+  <linearGradient id="cristal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b4a7a" stop-opacity=".75"/><stop offset="1" stop-color="#121a44" stop-opacity=".6"/></linearGradient>
+  <filter id="brillo" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="zona"><rect x="2" y="2" width="340" height="226" rx="14"/></clipPath>
+</defs>
+<rect x="1" y="1" width="798" height="228" rx="16" fill="url(#fondo)" stroke="#23476a"/>
+<g clip-path="url(#zona)">
+  <rect width="344" height="230" fill="url(#halo)"/>
+  <g stroke="#2fd8ff" stroke-opacity=".07" stroke-width="1"><path d="M20 0V230" /><path d="M40 0V230" /><path d="M60 0V230" /><path d="M80 0V230" /><path d="M100 0V230" /><path d="M120 0V230" /><path d="M140 0V230" /><path d="M160 0V230" /><path d="M180 0V230" /><path d="M200 0V230" /><path d="M220 0V230" /><path d="M240 0V230" /><path d="M260 0V230" /><path d="M280 0V230" /><path d="M300 0V230" /><path d="M320 0V230" /><path d="M0 10H330" /><path d="M0 30H330" /><path d="M0 50H330" /><path d="M0 70H330" /><path d="M0 90H330" /><path d="M0 110H330" /><path d="M0 130H330" /><path d="M0 150H330" /><path d="M0 170H330" /><path d="M0 190H330" /><path d="M0 210H330" /></g>
+  
+<g fill="url(#cristal)" stroke="#2fd8ff" stroke-width="1.2">
+  <rect x="24" y="44" width="92" height="140" rx="6" transform="skewY(-6) translate(0 12)"/>
+  <rect x="128" y="34" width="104" height="160" rx="6"/>
+  <rect x="244" y="52" width="80" height="124" rx="6" transform="skewY(6) translate(0 -24)"/>
+</g>
+<g stroke="#7fe8ff" stroke-width="1.8" stroke-linecap="round"><path d="M38 70h56M38 80h40M38 96h56M38 106h32M38 122h50" transform="skewY(-6) translate(0 12)"/></g>
+<path d="M140 120 L156 104 L170 112 L186 84 L200 96 L218 62" fill="none" stroke="#2fd8ff" stroke-width="2.4" stroke-linejoin="round" filter="url(#brillo)"/>
+<path d="M140 120 L156 104 L170 112 L186 84 L200 96 L218 62 V130 H140Z" fill="#2fd8ff" fill-opacity=".12"/>
+<g fill="#9a7cff"><rect x="142" y="162" width="10" height="18" rx="1.5" opacity=".85"/><rect x="158" y="150" width="10" height="30" rx="1.5" opacity=".85"/><rect x="174" y="158" width="10" height="22" rx="1.5" opacity=".85"/><rect x="190" y="140" width="10" height="40" rx="1.5" opacity=".85"/><rect x="206" y="146" width="10" height="34" rx="1.5" opacity=".85"/><rect x="222" y="154" width="10" height="26" rx="1.5" opacity=".85"/></g>
+<g stroke="#c9b8ff" stroke-width="1.8" stroke-linecap="round" transform="skewY(6) translate(0 -24)"><path d="M256 84h52M256 96h36"/></g>
+<g transform="skewY(6) translate(0 -24)"><circle cx="284" cy="134" r="22" fill="none" stroke="#1f3b66" stroke-width="7"/><circle cx="284" cy="134" r="22" fill="none" stroke="#2fd8ff" stroke-width="7" stroke-dasharray="104 200" transform="rotate(-90 284 134)" filter="url(#brillo)"/></g>
+
+</g>
+<path d="M344 22V208" stroke="#2fd8ff" stroke-opacity=".25"/>
+<path d="M16 1H60M1 16V60" stroke="#2fd8ff" stroke-width="2" stroke-linecap="round"/>
+<path d="M740 229H784M799 170V214" stroke="#9a7cff" stroke-width="2" stroke-linecap="round"/>
+<text x="378" y="62" fill="#2fd8ff" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="3">04 / SYSTEM</text>
+<text x="378" y="108" fill="#f0f6fc" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="36" font-weight="700">WMS Agent Evals</text>
+<text x="378" y="142" fill="#a9c0d8" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="23">Offline behavior evaluation</text>
+<text x="378" y="194" fill="#2fd8ff" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" letter-spacing="2">EXPLORE REPOSITORY</text>
+<path d="M748 196 L764 180 M752 180 H764 V192" fill="none" stroke="#2fd8ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
