@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="190" height="56" viewBox="0 0 190 56" role="img" aria-label="LinkedIn">
 <defs>
-  <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04182a"/><stop offset=".55" stop-color="#070f22"/><stop offset="1" stop-color="#110c28"/></linearGradient>
+  <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111113"/><stop offset=".55" stop-color="#0b0b0c"/><stop offset="1" stop-color="#121214"/></linearGradient>
   <filter id="brillo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect x="1" y="1" width="188" height="54" rx="10" fill="url(#fondo)" stroke="#2fd8ff" stroke-opacity=".75" stroke-width="1.5"/>
-<g transform="translate(18 12)"><rect x="6" y="3" width="26" height="26" rx="5" fill="none" stroke="#2fd8ff" stroke-width="2.2"/><text x="19" y="23.5" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#2fd8ff">in</text></g>
-<text x="66" y="35" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#f0f6fc">LinkedIn</text>
+<rect x="1" y="1" width="188" height="54" rx="10" fill="url(#fondo)" stroke="#c6ff3d" stroke-opacity=".75" stroke-width="1.5"/>
+<g transform="translate(18 12)"><rect x="6" y="3" width="26" height="26" rx="5" fill="none" stroke="#c6ff3d" stroke-width="2.2"/><text x="19" y="23.5" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#c6ff3d">in</text></g>
+<text x="66" y="35" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#f4f4f5">LinkedIn</text>
 </svg>

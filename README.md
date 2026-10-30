@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.jpg" width="100%" alt="Noel Aliaga — AI Systems Architect & Developer · Signal Systems" /></p>
+<p align="center"><img src="assets/banner.jpg" width="100%" alt="Noel Aliaga — AI Systems Architect & Developer · Signal Systems · Alicante. Terminal: whoami, ls systems/ lists agent-crm-mcp, mcp-logistica, wms-agent-evals and motor-agentico." /></p>
 
 <p align="center"><img src="assets/hero.svg" width="100%" alt="Engineering the systems behind AI. — Signal Systems" /></p>
 
