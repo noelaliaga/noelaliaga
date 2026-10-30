@@ -22,8 +22,8 @@ I use Claude Code, Codex and other AI tools to implement my ideas while deepenin
 
 ## <picture><source media="(prefers-color-scheme: light)" srcset="assets/h-toolkit-light.svg" /><img src="assets/h-toolkit.svg" alt="02 / Toolkit" /></picture>
 
-<p align="center"><img src="assets/toolkit.svg" width="560" alt="Python, TypeScript, JavaScript, PostgreSQL, Next.js, Supabase, Git, GitHub Actions, Playwright, MCP, Claude Code, Codex" /></p>
-<p align="center"><b>Agent orchestration · Evaluation</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,postgres,nextjs,supabase,git,githubactions,playwright&theme=dark" alt="Python, TypeScript, JavaScript, PostgreSQL, Next.js, Supabase, Git, GitHub Actions and Playwright" /></p>
+<p align="center"><b>MCP · Claude Code · Codex · Agent orchestration · Evaluation</b></p>
 
 ## <picture><source media="(prefers-color-scheme: light)" srcset="assets/h-systems-light.svg" /><img src="assets/h-systems.svg" alt="03 / Selected systems" /></picture>
 
