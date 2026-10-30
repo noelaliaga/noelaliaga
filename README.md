@@ -1,12 +1,14 @@
-<p align="center"><img src="assets/banner.png" width="100%" alt="Noel Aliaga — AI Systems Architect & Developer · Signal Systems" /></p>
+<p align="center"><img src="assets/banner.jpg" width="100%" alt="Noel Aliaga — AI Systems Architect & Developer · Signal Systems" /></p>
 
-<h2 align="center">Engineering the systems behind AI.</h2>
-<p align="center"><b>S I G N A L &nbsp; S Y S T E M S</b></p>
+<p align="center"><img src="assets/hero.svg" width="100%" alt="Engineering the systems behind AI. — Signal Systems" /></p>
+
 <p align="center">
-<a href="https://github.com/noelaliaga?tab=repositories">Explore my code</a> &nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/noelaliaga">LinkedIn</a> &nbsp; / &nbsp;
-<a href="https://signalsystems.es">Signal Systems</a>
+<a href="https://github.com/noelaliaga?tab=repositories"><img src="assets/btn-code.svg" height="44" alt="Explore my code" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/noelaliaga"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
+<a href="https://signalsystems.es"><img src="assets/btn-signal.svg" height="44" alt="Signal Systems" /></a>
 </p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## 01 / ABOUT
 
@@ -14,18 +16,14 @@ I design and build agent systems, MCP tools and business workflows.
 
 My background in factory and warehouse operations shapes how I build software: clear responsibilities, controlled changes, useful checks and recovery when something fails.
 
-```yaml
-focus: agents + infrastructure + business workflows
-approach: design / build / evaluate / iterate
-location: Alicante, Spain
-```
+<img src="assets/about-terminal.svg" width="560" alt="focus: agents + infrastructure + business workflows · approach: design / build / evaluate / iterate · location: Alicante, Spain" />
 
 I use Claude Code, Codex and other AI tools to implement my ideas while deepening my software engineering skills. My focus is problem definition, system design, orchestration, testing and iteration.
 
 ## 02 / TOOLKIT
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,postgres,nextjs,supabase,git,githubactions,playwright&theme=dark" alt="Python, TypeScript, JavaScript, PostgreSQL, Next.js, Supabase, Git, GitHub Actions and Playwright" /></p>
-<p align="center"><b>MCP · Claude Code · Codex · Agent orchestration · Evaluation</b></p>
+<p align="center"><img src="assets/toolkit.svg" width="560" alt="Python, TypeScript, JavaScript, PostgreSQL, Next.js, Supabase, Git, GitHub Actions, Playwright, MCP, Claude Code, Codex" /></p>
+<p align="center"><b>Agent orchestration · Evaluation</b></p>
 
 ## 03 / SELECTED SYSTEMS
 
@@ -76,7 +74,5 @@ Also redesigning Motor Agéntico to make roles, memory, evidence and costs easie
 
 [View my actual GitHub activity →](https://github.com/noelaliaga)
 
----
-
-<p align="center"><b>Explore the code. Follow the process.</b><br/><br/>
-<a href="https://www.linkedin.com/in/noelaliaga">Let's connect</a> · <a href="https://signalsystems.es">Signal Systems</a></p>
+<p align="center"><img src="assets/footer.svg" width="560" alt="Explore the code. Follow the process." /></p>
+<p align="center"><a href="https://www.linkedin.com/in/noelaliaga">Let's connect</a> · <a href="https://signalsystems.es">Signal Systems</a></p>

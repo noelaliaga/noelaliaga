@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-label="Engineering the systems behind AI. Signal Systems.">
+<defs>
+  <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04182a"/><stop offset=".55" stop-color="#070f22"/><stop offset="1" stop-color="#110c28"/></linearGradient>
+  <filter id="brillo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="998" height="208" rx="16" fill="url(#fondo)" stroke="#23476a"/>
+<g stroke="#2fd8ff" stroke-opacity=".05"><path d="M0 0V210"/><path d="M40 0V210"/><path d="M80 0V210"/><path d="M120 0V210"/><path d="M160 0V210"/><path d="M200 0V210"/><path d="M240 0V210"/><path d="M280 0V210"/><path d="M320 0V210"/><path d="M360 0V210"/><path d="M400 0V210"/><path d="M440 0V210"/><path d="M480 0V210"/><path d="M520 0V210"/><path d="M560 0V210"/><path d="M600 0V210"/><path d="M640 0V210"/><path d="M680 0V210"/><path d="M720 0V210"/><path d="M760 0V210"/><path d="M800 0V210"/><path d="M840 0V210"/><path d="M880 0V210"/><path d="M920 0V210"/><path d="M960 0V210"/></g>
+<text x="500.0" y="98" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="50" font-weight="300" fill="#f0f6fc">Engineering the systems behind <tspan font-weight="800" fill="#2fd8ff" filter="url(#brillo)">AI.</tspan></text>
+<path d="M200.0 148H330.0M670.0 148H800.0" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<text x="500.0" y="156" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="9" fill="#2fd8ff">SIGNAL SYSTEMS</text>
+<path d="M16 1H70M1 16V70" stroke="#2fd8ff" stroke-width="2" stroke-linecap="round"/>
+<path d="M930 209H984M999 140V194" stroke="#9a7cff" stroke-width="2" stroke-linecap="round"/>
+</svg>

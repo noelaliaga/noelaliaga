@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="564" height="414" viewBox="0 0 564 414" role="img" aria-label="Toolkit: Python, TypeScript, JavaScript, PostgreSQL, Next.js, Supabase, Git, GitHub Actions, Playwright, MCP, Claude Code, Codex">
+<g transform="translate(16 16)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#2fd8ff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#2fd8ff">Py</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">Python</text></g><g transform="translate(152 16)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#2fd8ff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#2fd8ff">TS</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">TypeScript</text></g><g transform="translate(288 16)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#2fd8ff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#2fd8ff">JS</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">JavaScript</text></g><g transform="translate(424 16)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#2fd8ff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#2fd8ff">PG</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">PostgreSQL</text></g><g transform="translate(16 148)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#2fd8ff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#2fd8ff">N</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">Next.js</text></g><g transform="translate(152 148)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#2fd8ff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#2fd8ff">SB</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">Supabase</text></g><g transform="translate(288 148)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#2fd8ff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#2fd8ff">git</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">Git</text></g><g transform="translate(424 148)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#2fd8ff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#2fd8ff">CI</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#f0f6fc">GitHub Actions</text></g><g transform="translate(16 280)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#2fd8ff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#2fd8ff">PW</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">Playwright</text></g><g transform="translate(152 280)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#9a7cff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#9a7cff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#9a7cff">MCP</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">MCP</text></g><g transform="translate(288 280)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#9a7cff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#9a7cff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#9a7cff">CC</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">Claude Code</text></g><g transform="translate(424 280)"><rect x=".75" y=".75" width="122.5" height="116.5" rx="12" fill="#081a33" stroke="#9a7cff" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="36.0" y="16" width="52" height="44" rx="9" fill="#0d2746" stroke="#9a7cff" stroke-width="1.5"/>
+<text x="62.0" y="45" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#9a7cff">CX</text>
+<text x="62.0" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#f0f6fc">Codex</text></g>
+</svg>

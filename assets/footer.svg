@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="70" viewBox="0 0 720 70" role="img" aria-label="Explore the code. Follow the process.">
+<defs>
+  <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04182a"/><stop offset=".55" stop-color="#070f22"/><stop offset="1" stop-color="#110c28"/></linearGradient>
+  <filter id="brillo" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="718" height="68" rx="14" fill="url(#fondo)" stroke="#23476a"/>
+<path d="M28 36H96M624 36H692" stroke="#2fd8ff" stroke-opacity=".7" stroke-width="1.5"/>
+<text x="360" y="44" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="24" font-weight="500" letter-spacing="1.5" fill="#2fd8ff">Explore the code. Follow the process.</text>
+</svg>
