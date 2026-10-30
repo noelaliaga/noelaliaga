@@ -10,7 +10,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 01 / ABOUT
+## <picture><source media="(prefers-color-scheme: light)" srcset="assets/h-about-light.svg" /><img src="assets/h-about.svg" alt="01 / About" /></picture>
 
 I design and build agent systems, MCP tools and business workflows.
 
@@ -20,12 +20,12 @@ My background in factory and warehouse operations shapes how I build software: c
 
 I use Claude Code, Codex and other AI tools to implement my ideas while deepening my software engineering skills. My focus is problem definition, system design, orchestration, testing and iteration.
 
-## 02 / TOOLKIT
+## <picture><source media="(prefers-color-scheme: light)" srcset="assets/h-toolkit-light.svg" /><img src="assets/h-toolkit.svg" alt="02 / Toolkit" /></picture>
 
 <p align="center"><img src="assets/toolkit.svg" width="560" alt="Python, TypeScript, JavaScript, PostgreSQL, Next.js, Supabase, Git, GitHub Actions, Playwright, MCP, Claude Code, Codex" /></p>
 <p align="center"><b>Agent orchestration · Evaluation</b></p>
 
-## 03 / SELECTED SYSTEMS
+## <picture><source media="(prefers-color-scheme: light)" srcset="assets/h-systems-light.svg" /><img src="assets/h-systems.svg" alt="03 / Selected systems" /></picture>
 
 <a href="https://github.com/noelaliaga/agent-crm-mcp"><img src="assets/agent-crm-mcp.svg" width="100%" alt="Agent CRM MCP — Permissions & audit trails" /></a>
 
@@ -56,7 +56,7 @@ These repositories are separate components and experiments at different stages o
 
 </details>
 
-## 04 / ENGINEERING PRINCIPLES
+## <picture><source media="(prefers-color-scheme: light)" srcset="assets/h-principles-light.svg" /><img src="assets/h-principles.svg" alt="04 / Engineering principles" /></picture>
 
 | Principle | In practice |
 | --- | --- |
@@ -66,7 +66,7 @@ These repositories are separate components and experiments at different stages o
 | Honest evaluation | Separate synthetic demos, offline tests, live use and production. |
 | Durable context | Preserve decisions and handoffs so work can resume. |
 
-## 05 / BUILDING IN PUBLIC
+## <picture><source media="(prefers-color-scheme: light)" srcset="assets/h-public-light.svg" /><img src="assets/h-public.svg" alt="05 / Building in public" /></picture>
 
 Currently developing a private **agent harness** focused on task ownership, independent review, durable handoffs, recovery, permissions and evaluations. Public repositories document individual components and experiments.
 
